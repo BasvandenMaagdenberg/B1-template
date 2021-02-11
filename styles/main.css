@@ -164,6 +164,7 @@ button{
 }
 
 .sidy-by-side{
+  color: blue;
 }
 
 .description{
@@ -206,6 +207,40 @@ footer{
   border: none;
   text-align: center;
 }
+
+.midden{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 180px;
+}
+
+.top{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 145px;
+}
+
+.tabel p{
+  margin: 0;
+}
+
+.controleer{
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.totaalBTW{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 172.5px;
+}
+
+.totaalBTW p{
+  padding:7.5px;
+}
+
+
+
 
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
